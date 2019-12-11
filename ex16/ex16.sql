@@ -1,4 +1,3 @@
-select DATE(`date`) from `member_history`;
 select COUNT(*) AS 'movies'
 FROM `member_history`
 WHERE
